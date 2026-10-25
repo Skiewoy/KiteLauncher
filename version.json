@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/Skiewoy/KiteLauncher/releases/latest/download/KiteLauncher.exe",
-  "notes": "",
-  "sha256": "",
+  "notes": "修复启动后卡死、跨目录启动失败、任务栏遮挡；首页切换版本可直接启动；更换 K 字图标",
+  "sha256": "73d662099c04eb833ef0d72a1855991f9b87513d137e93b101fd8e771d1fc37b",
   "force": false,
   "minVersion": ""
 }
