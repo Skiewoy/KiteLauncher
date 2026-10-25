@@ -1,4 +1,4 @@
-# MyLauncher
+# KiteLauncher
 
 轻量Minecraft启动器v1.0.0版本，目前仅支持windows系统
 
@@ -14,7 +14,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/Skiewoy/MyLauncher/releases/latest) 下载 `MyLauncher.exe`。
+前往 [Releases](https://github.com/Skiewoy/KiteLauncher/releases/latest) 下载 `MyLauncher.exe`。
 
 ## 系统要求
 
@@ -42,7 +42,7 @@
 
 **Q：怎么反馈问题？**
 
-到 [Issues](https://github.com/Skiewoy/MyLauncher/issues) 提交，附上 `launchdiag.txt` 里的日志
+到 [Issues](https://github.com/Skiewoy/KiteLauncher/issues) 提交，附上 `launchdiag.txt` 里的日志
 
 ## 致谢
 
