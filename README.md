@@ -1,6 +1,6 @@
 # MyLauncher
 
-轻量Minecraft启动器v1.0.0版本
+轻量Minecraft启动器v1.0.0版本，目前仅支持windows系统
 
 ## 特性
 
